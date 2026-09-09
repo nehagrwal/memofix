@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/memofix/sitemap.xml
+Sitemap: https://memofix.vercel.app/sitemap-vercel.xml
+Sitemap: https://memofix.pages.dev/sitemap-cloudflare.xml
